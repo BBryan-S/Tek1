@@ -4,4 +4,4 @@
 
 ### Modules
 
-. Le module **CPE** 
+* Le module **CPE** 
