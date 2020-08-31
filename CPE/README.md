@@ -1,6 +1,3 @@
-
-# Première année à Epitech
-
 # Module CPE
 
 ### Sommaire
